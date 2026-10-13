@@ -1,0 +1,1 @@
+Rahul Sharma. Backend developer with 4 years of experience in Python, FastAPI, SQL and PostgreSQL. Built REST APIs and deployed applications using Docker.
